@@ -23,7 +23,9 @@
 </div>
 
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1200&pause=800&color=00FF99&center=true&vCenter=true&width=300&lines=●+currently+building;●+developing;●+in+progress" />
+</p>
 
 <h3 align="center">
   Adaptive Cognitive Modeling System (ACMS)
