@@ -23,18 +23,28 @@
 </div>
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rohith%20Uppunuthula&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Builder.%20Explorer.%20Open%20Source%20Contributor.&descSize=16&descAlignY=58&descColor=a0a0ff&animation=fadeIn" width="100%"/>
-</div>
 
-<br/>
 
-<h3 align="center">Adaptive Cognitive Modeling System (ACMS)</h3>
+<h3 align="center">
+  Adaptive Cognitive Modeling System (ACMS)
+</h3>
 
 <p align="center">
-Designing systems that move beyond static intelligence toward persistent, evolving models of human cognition.<br/>
-Building frameworks that learn how individuals think, adapt, and make decisions over time.<br/>
-Exploring the foundations of long-term personalized intelligence and behavior-aware AI systems.
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=A0A0FF&center=true&vCenter=true&width=700&lines=Modeling+Human+Cognition+as+a+System;From+Static+AI+to+Persistent+Intelligence;Learning+How+You+Think+—+Not+Just+What+You+Say" />
+</p>
+
+<p align="center">
+  ─────────────────────────────────────────────
+</p>
+
+<p align="center">
+  Designing systems that evolve into persistent representations of human cognition<br/>
+  Building architectures that observe, adapt, and anticipate decision patterns<br/>
+  Advancing toward intelligence that is continuously modeled, not just queried
+</p>
+
+<p align="center">
+  ─────────────────────────────────────────────
 </p>
 
 <br/>
