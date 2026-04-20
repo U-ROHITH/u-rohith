@@ -22,6 +22,24 @@
 
 </div>
 
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rohith%20Uppunuthula&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Builder.%20Explorer.%20Open%20Source%20Contributor.&descSize=16&descAlignY=58&descColor=a0a0ff&animation=fadeIn" width="100%"/>
+</div>
+
+<br/>
+
+<h3 align="center">Adaptive Cognitive Modeling System (ACMS)</h3>
+
+<p align="center">
+Designing systems that move beyond static intelligence toward persistent, evolving models of human cognition.<br/>
+Building frameworks that learn how individuals think, adapt, and make decisions over time.<br/>
+Exploring the foundations of long-term personalized intelligence and behavior-aware AI systems.
+</p>
+
+<br/>
+
+
 ---
 
 ## ⚡ THINGS I'VE SHIPPED
