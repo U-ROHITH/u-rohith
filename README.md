@@ -9,39 +9,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/-rohith--uppunuthula-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-uppunuthula/)&nbsp;
 [![GitHub](https://img.shields.io/badge/-U--ROHITH-181717?style=flat-square&logo=github)](https://github.com/U-ROHITH)&nbsp;
-[![Instagram](https://img.shields.io/badge/-rohithsig-e1306c?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rohithsig)
+[![Instagram](https://img.shields.io/badge/-rohithsig-e1306c?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rohithsig)&nbsp;
+[![X](https://img.shields.io/badge/-BruntEngineer-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/BruntEngineer)
 
 </div>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1200&pause=800&color=00FF99&center=true&vCenter=true&width=300&lines=●+currently+building;●+developing;●+in+progress" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1200&pause=800&color=00FF99&center=true&vCenter=true&width=500&lines=●+Learning+ML+in+public+—+100+days;●+Daily+breakdowns+of+what+I+build+and+learn;●+Follow+the+journey+on+X+%40BruntEngineer" />
 </p>
-
-<h3 align="center">
-  Adaptive Cognitive Modeling System (ACMS)
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=A0A0FF&center=true&vCenter=true&width=700&lines=Modeling+Human+Cognition+as+a+System;From+Static+AI+to+Persistent+Intelligence;Learning+How+You+Think+—+Not+Just+What+You+Say" />
-</p>
-
-<p align="center">
-  ─────────────────────────────────────────────
-</p>
-
-<p align="center">
-  Designing systems that evolve into persistent representations of human cognition<br/>
-  Building architectures that observe, adapt, and anticipate decision patterns<br/>
-  Advancing toward intelligence that is continuously modeled, not just queried
-</p>
-
-<p align="center">
-  ─────────────────────────────────────────────
-</p>
-
-<br/>
-
 
 ---
 
