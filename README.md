@@ -9,14 +9,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/-rohith--uppunuthula-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-uppunuthula/)&nbsp;
 [![GitHub](https://img.shields.io/badge/-U--ROHITH-181717?style=flat-square&logo=github)](https://github.com/U-ROHITH)&nbsp;
-[![Instagram](https://img.shields.io/badge/-rohithsig-e1306c?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rohithsig)&nbsp;
-[![X](https://img.shields.io/badge/-BruntEngineer-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/BruntEngineer)
+[![Instagram](https://img.shields.io/badge/-rohithsig-e1306c?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rohithsig)
 
 </div>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1200&pause=800&color=00FF99&center=true&vCenter=true&width=500&lines=●+Learning+ML+in+public+—+100+days;●+Daily+breakdowns+of+what+I+build+and+learn;●+Follow+the+journey+on+X+%40BruntEngineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1200&pause=800&color=00FF99&center=true&vCenter=true&width=300&lines=●+currently+building;●+documenting+the+process;●+in+progress" />
 </p>
 
 ---
